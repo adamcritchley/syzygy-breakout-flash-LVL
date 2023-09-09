@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "gsd-footprints")(type "KiCad")(uri "${KIPRJMOD}/../../lib/gsd-footprints.pretty")(options "")(descr ""))
+)

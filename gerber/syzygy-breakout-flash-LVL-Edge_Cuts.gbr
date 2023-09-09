@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
+%TF.CreationDate,2023-09-03T17:39:20-04:00*%
+%TF.ProjectId,syzygy-breakout-flash-LVL,73797a79-6779-42d6-9272-65616b6f7574,r1.0*%
+%TF.SameCoordinates,PX66851e0PY4d70380*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-09-03 17:39:20*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X-169500Y1001000D02*
+X44407500Y1001000D01*
+X44407500Y-89042000D01*
+X-169500Y-89042000D01*
+X-169500Y1001000D01*
+M02*
